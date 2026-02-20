@@ -81,8 +81,16 @@ Database Concepts
 
 👥 Team
 
-Team Member: Kandula Sushma
-Team Member: P. Devi Likitha (add if applicable)
+
+Team Leader: P. Devi Likitha (add if applicable)
+
+Team member : Koppaka Gnanendra Chowdary
+
+Team member : Kurma Jasta Naga Jyoshna
+
+Team member : K Akash Babu
+
+
 
 ✅ Conclusion
 
