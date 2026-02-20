@@ -50,7 +50,7 @@ ServiceNow Platform JavaScript Client Scripts Business Rules Database Concepts
 
 👥 Team
 
-Team Member: Kandula Sushma Team Member: P. Devi Likitha (add if applicable)
+Team leader: P. Devi Likitha (add if applicable)
 
 ✅ Conclusion
 
